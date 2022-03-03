@@ -1,2 +1,2 @@
-# cjhnsn.github.io
+# Chelsea Johnson's GIS Portfolio
 GIS Portfolio 
