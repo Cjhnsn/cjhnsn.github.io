@@ -1,2 +1,2 @@
 # Chelsea Johnson's GIS Portfolio
-GIS Portfolio 
+I am currently a graduate student at Oregon State University persuing a certificate in Geographic Information Sciences. I have experience creating maps and geodatabases within natural resource management projects. I'm interested in using remote sensing data to answer difficult land use questions to help move towards a more sustainable future. This is a collection of some of my work. 
